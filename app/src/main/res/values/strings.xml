@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JetCarsApp</string>
+    <string name="search_cars">Search your cars</string>
+    <string name="about">My Profile</string>
+    <string name="menu_home">Home</string>
+    <string name="about_menu">About</string>
+    <string name="detail_title">Detail Cars</string>
+    <string name="back">back</string>
+    <string name="name_profile">Fajar Arahman</string>
+    <string name="email_profile">fajararahman18@gmail.com</string>
+
+
+</resources>
